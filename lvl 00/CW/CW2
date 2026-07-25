@@ -1,0 +1,18 @@
+#print("hello, world')
+#ამ კოდს აქვს განსხვავებული ბრწყალები ერთი არის ორ ბრჭყალიანი მეორე კი ერთ ბრწყალიანი
+#name="luka"
+#print(name)
+#პირველ ხაზში შეცდომა იყო ის რომ ლუკას არ ეწერა ბრჭყალები ხოლო მეორე ხაზში nam არ იყო დასრულებული
+#my_name="giorgi"
+#print(my_name)
+#first_name="sandro"
+#last_name="aroshvili"
+#print(first_name)
+#print(last_name)
+my_name="saba"
+my_age="13"
+my_hobby="chess"
+
+print(my_name)
+print(my_age)
+print(my_hobby)
