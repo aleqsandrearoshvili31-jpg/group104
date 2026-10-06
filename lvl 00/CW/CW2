@@ -10,7 +10,7 @@
 #print(first_name)
 #print(last_name)
 my_name="saba"
-my_age="13"
+my_age=13
 my_hobby="chess"
 
 print(my_name)
