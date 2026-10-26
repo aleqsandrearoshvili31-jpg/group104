@@ -59,5 +59,24 @@
 #     jami=jami+num1
 #     num1=num1+1
 #     print(jami)
-for i in range(100,2):
-    print(i)
+#for i in range(100,):
+#    print(i)
+
+# score=int(input())
+# if score>=90:
+#     print("grade:A")
+# elif score>=70:
+#     print("grade:B")
+# elif score>=50:
+#     print("grade:C")
+# else:
+#     print("Fail")
+
+# fruit=["apple","orange","banana"]
+# fruit[2]="berry"
+# print(fruit[2])
+text=input()
+while text!="stop":
+    text=input()
+    if text=="stop":
+        print("program stopped")

@@ -8,7 +8,7 @@ for i in range(3):
 runner_a=0
 runner_b=0
 for i in range(5):
-    runner_a+=i
+    runner_a=i
     runner_b+=i
 print(runner_a)
 print(runner_b)
