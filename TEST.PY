@@ -75,8 +75,18 @@
 # fruit=["apple","orange","banana"]
 # fruit[2]="berry"
 # print(fruit[2])
-text=input()
-while text!="stop":
-    text=input()
-    if text=="stop":
-        print("program stopped")
+# text=input()
+# while text!="stop":
+#     text=input()
+#     if text=="stop":
+#         print("program stopped")
+# food=["banana","choclat","candy","cola"]
+# print(food[0:2])
+# while 111>100:
+#     print("good")
+
+num=150
+while num >=1:
+    print(num)
+    num=num-1
+   
